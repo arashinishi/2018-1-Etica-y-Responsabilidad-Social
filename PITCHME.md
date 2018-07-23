@@ -6,7 +6,40 @@
 Alan Lisboa - Daniel Pavez
 
 ---
-### Motivación
+
+## Motivación
+
+---
+### Porcentaje de la población con discapacidad
+
+![Estudio Nacional de la Discapacidad 2015 - Tabla 9 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/poblacion.png)
+
+@fa[arrow-down]
+
++++
+### Porcentaje de la población adulta con discapacidad
+
+![Estudio Nacional de la Discapacidad 2015 - Gráfico 7 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/grafico7.png)
+
+![Estudio Nacional de la Discapacidad 2015 - Gráfico 8 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/grafico8.png)
+
+@fa[arrow-down]
+
++++
+
+![Estudio Nacional de la Discapacidad 2015 - Gráfico 11 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/grafico11.png)
+
+@fa[arrow-down]
+
++++
+### Brecha en educación
+
+![Estudio Nacional de la Discapacidad 2015 - Gráfico 41 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/grafico41.png)
+
+@fa[arrow-down]
+
++++
+### Otros problemas:
 
 @ul
 
@@ -14,9 +47,8 @@ Alan Lisboa - Daniel Pavez
   - Movilización.
   - Educación.
   - Laboral.
-- Discriminación.
 - Inclusión en nuestra universidad.
-
+- Discriminación.
 
 @ulend
 
@@ -28,7 +60,8 @@ Alan Lisboa - Daniel Pavez
 - Enfoque actual centrado en la *integración* y no en la *inclusión*.
 - Adaptación de los espacios públicos.
 - Universidades y carreras.
-- Discriminación laboral.
+- Falta de inclusión laboral.
+- Ley 20422.
 
 @ulend
 
@@ -70,10 +103,15 @@ Alan Lisboa - Daniel Pavez
 @fa[arrow-down]
 
 +++
+
 ### Nuestra universidad
+
+@ul
 
 - "La Universidad de Talca ha hecho de la integración de personas con discapacidad un compromiso institucional."
 - Vicerrector Sergio Matus afirmó "todos nuestros nuevos edificios disponen de estructuras habilitadas con ese fin y con estacionamientos reservados para personas con discapacidad”.
+
+@ulend
 
 (http://www.utalca.cl/link.cgi//SalaPrensa/RSU/6007)
 
@@ -82,8 +120,67 @@ Alan Lisboa - Daniel Pavez
 +++
 ### Nuestro campus
 
+@ul
+
 - Ausencia de alumnos en situación de discapacidad.
 - Falta de estructuras habilitadas para este propósito.
-- No hay medio especiales de ingreso para personas con algún tipo de discapacidad.
+- No hay medio especiales de ingreso para personas con algún tipo de discapacidad (necesasario ya que tan sólo la PSU 2017 aceptó a personas en situación de discapacidad).
+
+@ulend
+
+(http://www.elmostrador.cl/agenda-pais/2017/11/24/mas-de-400-estudiantes-con-discapacidad-rendiran-la-psu-con-formatos-accesibles/)
+
+@fa[arrow-down]
+
++++
+### Falta de inclusión laboral
+
+
+![Estudio Nacional de la Discapacidad 2015 - Gráfico 22 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/grafico22.png)
+![Estudio Nacional de la Discapacidad 2015 - Gráfico 23 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/grafico23.png)
+
+@fa[arrow-down]
+
++++
+### Falta de inclusión laboral
+
+![Estudio Nacional de la Discapacidad 2015 - Gráfico 27 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/grafico37.png)
+![Estudio Nacional de la Discapacidad 2015 - Gráfico 30 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/grafico30.png)
+
+@fa[arrow-down]
+
++++
+### Ley 20422
+
+@ul
+
+- "Artículo 1.- El objeto de esta ley es asegurar el derecho a la igualdad de oportunidades de las personas con discapacidad, con el fin de obtener su plena inclusión social, asegurando el disfrute de sus derechos y eliminando cualquier forma de discriminación fundada en la discapacidad."
+- "Artículo 39.- ... Las instituciones de educación superior deberán contar con mecanismos que faciliten el acceso de las personas con discapacidad, así como adaptar los materiales de estudio y medios de enseñanza para que dichas personas puedan cursar las diferentes carreras."
+
+@ulend
+
+@fa[arrow-down]
+
++++
+### Cumplimiento de los plazos
+
+"Al 3 de marzo de 2019, los edificios existentes, de uso público o que presten servicio a la comunidad, deberán efectuar las adecuaciones necesarias que les permitan ser accesibles y utilizables por personas con movilidad reducida en forma autónoma.  A sí mismo, al año 2018, los bienes nacionales de uso público, administrados por organismos del Estado o Municipalidades, deberán ser accesibles y utilizables en forma independiente y sin dificultad por personas con discapacidad, en especial, las veredas, pasarelas peatonales, parques y plazas."
+
+(http://www.ciudadaccesible.cl/?p=5809)
 
 ---
+### Entrevistada
+
+@ul
+
+- Nombre: Valentina González
+- Institución: Universidad Católica de Temuco
+- Rol: Estudiante Voluntaria de CERETI
+
+@ulend
+
+@fa[arrow-down]
+
++++
+### CERETI
+
