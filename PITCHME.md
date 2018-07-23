@@ -46,9 +46,10 @@ Alan Lisboa - Daniel Pavez
 
 @ul
 
+- Bajadas para sillas de ruedas.
 - Semáforos con sonido.
-- Cerámicas de veredas con distintas texturas (detección de puntos importantes por medio de los bastones).
-- Información a la comunidad acerca de los perros guía (no deben de distraerlos mientras están trabajando).
+- Cerámicas de veredas con distintas texturas.
+- Información a la comunidad acerca de los perros guía.
 
 @ulend
 
@@ -59,9 +60,30 @@ Alan Lisboa - Daniel Pavez
 
 @ul
 
-- En la actualidad la mayor parte de las universidades chilenas no se encuentran adaptadas para recibir a estudiantes en situación de discapacidad, en especial para los casos de discapacidad sensorial.
-- En cuanto a las carreras universitarias, estas también son limitadas para los estudiantes con discapacidad sensorial, siendo posible acceder en la mayoría de los casos, tan sólo a carreras del área de las humanidades.
+- Universidades:
+  - Falta de material adaptado e instrucción a los profesores.
+  - Falta de implementos y accesibilidad.
+- Carreras universitarias para estudiantes con discapacidades sensoriales limitadas, enfocadas a las humanidades.
 
 @ulend
+
+@fa[arrow-down]
+
++++
+### Nuestra universidad
+
+- "La Universidad de Talca ha hecho de la integración de personas con discapacidad un compromiso institucional."
+- Vicerrector Sergio Matus afirmó "todos nuestros nuevos edificios disponen de estructuras habilitadas con ese fin y con estacionamientos reservados para personas con discapacidad”.
+
+(http://www.utalca.cl/link.cgi//SalaPrensa/RSU/6007)
+
+@fa[arrow-down]
+
++++
+### Nuestro campus
+
+- Ausencia de alumnos en situación de discapacidad.
+- Falta de estructuras habilitadas para este propósito.
+- No hay medio especiales de ingreso para personas con algún tipo de discapacidad.
 
 ---
