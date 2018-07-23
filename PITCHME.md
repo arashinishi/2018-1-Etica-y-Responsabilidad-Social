@@ -36,29 +36,13 @@ Alan Lisboa - Daniel Pavez
 
 ![Estudio Nacional de la Discapacidad 2015 - Gráfico 41 (http://www.senadis.gob.cl/descarga/i/3959)](assets/img/grafico41.png)
 
-@fa[arrow-down]
-
-+++
-### Otros problemas:
-
-@ul
-
-- Falta de inclusión:
-  - Movilización.
-  - Educación.
-  - Laboral.
-- Inclusión en nuestra universidad.
-- Discriminación.
-
-@ulend
-
 ---
 ### Descripción del problema
 
 @ul
 
 - Enfoque actual centrado en la *integración* y no en la *inclusión*.
-- Adaptación de los espacios públicos.
+- Adaptación de los espacios públicos (accesibilidad).
 - Universidades y carreras.
 - Falta de inclusión laboral.
 - Ley 20422.
@@ -75,7 +59,7 @@ Alan Lisboa - Daniel Pavez
 @fa[arrow-down]
 
 +++
-### Espacios públicos
+### Accesibilidad urbana
 
 @ul
 
@@ -164,7 +148,11 @@ Alan Lisboa - Daniel Pavez
 +++
 ### Cumplimiento de los plazos
 
-"Al 3 de marzo de 2019, los edificios existentes, de uso público o que presten servicio a la comunidad, deberán efectuar las adecuaciones necesarias que les permitan ser accesibles y utilizables por personas con movilidad reducida en forma autónoma.  A sí mismo, al año 2018, los bienes nacionales de uso público, administrados por organismos del Estado o Municipalidades, deberán ser accesibles y utilizables en forma independiente y sin dificultad por personas con discapacidad, en especial, las veredas, pasarelas peatonales, parques y plazas."
+@ul
+
+- "Al *3 de marzo de 2019*, los edificios existentes, de uso público o que presten servicio a la comunidad, deberán efectuar las adecuaciones necesarias que les permitan ser accesibles y utilizables por personas con movilidad reducida en forma autónoma.  A sí mismo, al *año 2018*, los bienes nacionales de uso público, administrados por organismos del Estado o Municipalidades, deberán ser accesibles y utilizables en forma independiente y sin dificultad por personas con discapacidad, en especial, las veredas, pasarelas peatonales, parques y plazas."
+
+@ulend
 
 (http://www.ciudadaccesible.cl/?p=5809)
 
@@ -175,7 +163,7 @@ Alan Lisboa - Daniel Pavez
 
 - Nombre: Valentina González
 - Institución: Universidad Católica de Temuco
-- Rol: Estudiante Voluntaria de CERETI
+- Función: Estudiante de Psicología y voluntaria de CERETI
 
 @ulend
 
@@ -184,3 +172,53 @@ Alan Lisboa - Daniel Pavez
 +++
 ### CERETI
 
+@ul
+
+- Funciona en base a voluntariado.
+- Provee de las herramientas necesarias a los estudiantes en situación de discapacidad.
+- Asistencia a los estudiantes en su progreso, a través de tutores.
+- Difusión de información a los estudiantes de la universidad.
+
+@ulend
+
+@fa[arrow-down]
+
++++
+### Otras medidas tomadas por la UTC
+
+@ul
+
+- Admisión especial para personas en situación de discapacidad.
+- Creación de la Dirección General de Inclusión y Acompañamiento Académico (DGIA) en el año 2016.
+
+@ulend
+
+@fa[arrow-down]
+
++++
+### Problemas persistentes
+
+@ul
+
+- Transporte y accesibilidad urbana.
+- Dificultad para proveer material necesario a estudiantes con discapacidades sensoriales.
+- Falta de capacitación a los profesores en materia de inclusión.
+
+@ulend
+
+@fa[arrow-down]
+
++++
+### Necesidades en la UTAL
+
+@ul
+
+- Incrementar la accesibilidad en las construcciones existentes.
+- Asegurar la accesibilidad en las construcciones nuevas.
+- Implementar medidas de ingreso especial.
+- Crear un centro similar a CERETI de la UTC, con el fin de brindar el apoyo necesario a estudiantes en situación de discapacidad.
+
+@ulend
+
+---
+## Conclusión
