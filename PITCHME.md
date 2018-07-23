@@ -188,8 +188,9 @@ Alan Lisboa - Daniel Pavez
 
 @ul
 
-- Admisión especial para personas en situación de discapacidad.
 - Creación de la Dirección General de Inclusión y Acompañamiento Académico (DGIA) en el año 2016.
+- Admisión especial para personas en situación de discapacidad.
+- Contratación de personal especializado.
 
 @ulend
 
@@ -208,7 +209,13 @@ Alan Lisboa - Daniel Pavez
 
 @fa[arrow-down]
 
+---
+## Desafío: Inclusión en la UTAL
+
+@fa[arrow-down]
+
 +++
+
 ### Necesidades en la UTAL
 
 @ul
@@ -216,7 +223,9 @@ Alan Lisboa - Daniel Pavez
 - Incrementar la accesibilidad en las construcciones existentes.
 - Asegurar la accesibilidad en las construcciones nuevas.
 - Implementar medidas de ingreso especial.
-- Crear un centro similar a CERETI de la UTC, con el fin de brindar el apoyo necesario a estudiantes en situación de discapacidad.
+- Permitir la inclusión en todas las carreras.
+- Crear un centro similar a CERETI de la UTC, con el fin de brindar el apoyo necesario a estudiantes en situación de discapacidad que así lo requieran.
+- Contratar personal especializado.
 
 @ulend
 
